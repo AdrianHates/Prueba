@@ -51,7 +51,7 @@ h2, h3 {
   font-weight: 700;
 }
 
-.menu > ul > li > a:hover {
+.menu > ul > li > a:hover, .menuColapsado > ul > li > a:hover {
   color: var(--r-button);
   border-bottom: 2px solid var(--r-button);
 }
